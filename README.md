@@ -24,3 +24,8 @@
  
 </div>
 
+ <div> 
+ 
+  ![Snake animation](https://github.com/helenawillians7/grid_snake/blob/25d6c507a0e50f44643ffa911b930b434b0c815d/grid-snake.svg)
+ 
+</div>
