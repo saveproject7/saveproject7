@@ -9,7 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="right" alt="save-pic" height="150" style="border-radius:50px;" src="https://github.com/Gabriel7812/my_gifs/blob/e145602e36981d106c804bcd27a7793aecf636c8/JustLive.jpg">
+  <img align="right" alt="save-pic" height="150" style="border-radius:50px;" src="https://github.com/saveproject7/saveproject7/blob/6e5a49a2cbf338fec3b0e5a433c4680fb5212b3e/SAVE.jpg">
   
 </div>
   
